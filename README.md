@@ -14,6 +14,6 @@
     │
     ├─ modules : redux의 state, reducer를 정의한 파일
     │
-    └─ pages : 페이지
+    └─ pages : 페이지 파라미터 적용
     
 ```
